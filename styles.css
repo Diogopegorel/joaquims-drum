@@ -3,6 +3,10 @@ body {
   background-color: #68adad;
 }
 
+.jokas {
+  height: 150px;
+}
+
 h1 {
   font-size: 5rem;
   color: #023535;
